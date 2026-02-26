@@ -1,0 +1,5 @@
+{
+  "name": "MM-Hub",
+  "description": "An advanced AI-driven crypto trading assistant using an ensemble voting mechanism with three specialized agents: Chartist, Skeptic, and Risk Manager.",
+  "requestFramePermissions": []
+}
